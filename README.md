@@ -1,4 +1,4 @@
-# Python-projects
+# Projects
 
-These are the projects I made while learning python. I am specifically interested in the ones that lets you see what is happening. Thus I have made applications with GUI for them.
+These are the projects I made while learning coding. I am specifically interested in the ones that lets you see what is happening (frontend, one might say). Thus I have made specific applications using GUI.
 Enjoy the bugfree experience!
